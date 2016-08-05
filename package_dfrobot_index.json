@@ -1,7 +1,7 @@
 ﻿{
   "packages": [
     {
-      "name": "dfrobot",
+      "name": "nucDuino",
       "maintainer": "DFRobot",
       "websiteURL": "http://www.dfrobot.com/",
       "email": "ouki.wang@dfrobot.com",
