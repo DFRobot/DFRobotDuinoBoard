@@ -18,7 +18,7 @@
           "help": {
             "online": "http://www.dfrobot.com/"
           },
-          "url": "https://github.com/DFRobot/DFRobotDuinoBoard/blob/master/nucDuino-1.0.0.tar.gz",
+          "url": "http://192.168.231.1/nucDuino-1.0.0.tar.gz",
           "archiveFileName": "nucDuino-1.0.0.tar.gz",
           "checksum": "SHA-256:6971a6d7f25115b7bcaf2514f52036b39f380f1604c0d095b3e55fe79a3f3e3f",
           "size": "3853874",
