@@ -21,7 +21,7 @@
           "url": "https://github.com/DFRobot/DFRobotDuinoBoard/raw/master/blunoM3-1.0.0.zip",
           "archiveFileName": "BlunoM3-1.0.0.zip",
           "checksum": "SHA-256:1f9c6211521b83fd9bd6e84a406ae76a912b68390c380e68f4aa63283fd544d0",  
-          "size": "42754498",
+          "size": "27460186",
           "boards": [
             {"name": "Bluno M3 MainBoard"}
           ],
