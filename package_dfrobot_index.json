@@ -20,8 +20,8 @@
           },
           "url": "https://github.com/DFRobot/DFRobotDuinoBoard/raw/master/nucDuino-1.0.2.zip",
           "archiveFileName": "nucDuino-1.0.2.zip",
-          "checksum": "SHA-256:f4b23c3978b5f474d97f6e3e1b59e191c923d2b9a6443b6ea20df70017b8e198",	  
-          "size": "4311433",
+          "checksum": "SHA-256:e2b59Fe3eaefff40ad897115f1f877abf995f6637a4029dada9315f96a89f615",	  
+          "size": "4311402",
           "boards": [
             {"name": "Bluno M0 MainBoard"}
           ],
