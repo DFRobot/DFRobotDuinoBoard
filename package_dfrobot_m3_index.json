@@ -1,4 +1,4 @@
-﻿{
+{
   "packages": [
     {
       "name": "BlunoM3",
@@ -10,6 +10,29 @@
       },
 
       "platforms": [
+		{
+          "name": "Bluno M3 MainBoard",
+          "architecture": "BlunoM3",
+          "version": "1.0.2",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.dfrobot.com/"
+          },
+          "url": "https://github.com/DFRobot/DFRobotDuinoBoard/raw/master/BlunoM3-1.0.2.zip",
+          "archiveFileName": "BlunoM3-1.0.2.zip",
+          "checksum": "SHA-256:fc9ebf8aabc5d7b8b13efcd2f83248784a7e1389caa2677079a3f931c055b91e", 
+          "size": "27460320",
+          "boards": [
+            {"name": "Bluno M3 MainBoard"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "BlunoM3",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
         {
           "name": "Bluno M3 MainBoard",
           "architecture": "BlunoM3",
