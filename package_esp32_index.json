@@ -1,0 +1,55 @@
+{
+  "packages": [
+    {
+      "maintainer": "DFRDuino FireFly", 
+      "help": {
+        "online": "http://esp32.com"
+      }, 
+      "websiteURL": "https://github.com/espressif/esp32-arduino", 
+      "platforms": [
+		{
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
+          "url": "http://210.22.153.182/cd_software/dfrobotiot/raw/master/DFRobot_esp32-0.0.1.zip", 
+          "checksum": "SHA-256:aec29b45b07247cfcbe0a4d100c3bfe54b3dd93d75a45595581bc5ff66071fbc",
+          "version": "0.0.1", 
+          "architecture": "DFRobot_esp32", 
+          "archiveFileName": "DFRobot_esp32-0.0.1.zip", 
+          "boards": [
+            {
+              "name": "FireFly-ESP32"
+            }
+          ], 
+          "size": "46358355",
+          "toolsDependencies": [
+            {
+              "packager": "esp32", 
+              "version": "1.22.0-59", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireFly-ESP32 Mainboard"
+        }
+      ], 
+      "tools": [
+        {
+          "version": "1.22.0-59", 
+          "name": "xtensa-esp32-elf-gcc", 
+          "systems": [
+            {
+              "url": "http://210.22.153.182/cd_software/dfrobotiot/raw/master/xtensa-esp32-elf-win32-1.22.0-59.tar.gz", 
+              "checksum": "SHA-256:8d28524cb7bc6c30eee9c4ce7238ebe335020a94d869288a22766d0e170eac76", 
+              "host": "i686-mingw32", 
+              "archiveFileName": "xtensa-esp32-elf-win32-1.22.0-59.tar.gz", 	
+              "size": "63751907"
+            }
+          ]
+        }
+      ], 
+      "email": "hristo@espressif.com", 
+      "name": "esp32"
+    }
+  ]
+}
