@@ -19,7 +19,7 @@
             "online": "http://www.dfrobot.com/"
           },
           "url": "https://github.com/DFRobot/DFRobotDuinoBoard/raw/master/nucDuino-1.0.3.zip",
-          "archiveFileName": "nucDuino-1.0.2.zip",
+          "archiveFileName": "nucDuino-1.0.3.zip",
           "checksum": "SHA-256:dbe73e21180edef80a7659608a2449642fc7414d80bb1fda847b2372b2ea6c64",	  
           "size": "5119069",
           "boards": [
