@@ -13,6 +13,29 @@
         {
           "name": "Bluno M0 MainBoard & DFRduino M0 MainBoard",
           "architecture": "nucDuino",
+          "version": "1.0.3",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.dfrobot.com/"
+          },
+          "url": "https://github.com/DFRobot/DFRobotDuinoBoard/raw/master/nucDuino-1.0.3.zip",
+          "archiveFileName": "nucDuino-1.0.2.zip",
+          "checksum": "SHA-256:dbe73e21180edef80a7659608a2449642fc7414d80bb1fda847b2372b2ea6c64",	  
+          "size": "5119069",
+          "boards": [
+            {"name": "Bluno M0 MainBoard"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "nucDuino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
+        },
+        {
+          "name": "Bluno M0 MainBoard & DFRduino M0 MainBoard",
+          "architecture": "nucDuino",
           "version": "1.0.2",
           "category": "Contributed",
           "help": {
